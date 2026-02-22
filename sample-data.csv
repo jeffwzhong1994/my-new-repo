@@ -1,0 +1,97 @@
+Date,Account,Description,Category,Tags,Amount
+2025-01-01,Chase Checking,Company Payroll,Income,,5200.00
+2025-01-05,Chase Checking,Whole Foods Market,Groceries,,-142.35
+2025-01-05,Chase Checking,Shell Gas Station,Gas & Fuel,,-48.50
+2025-01-06,Chase Checking,Netflix Subscription,Subscriptions,,-15.99
+2025-01-07,Chase Checking,Mortgage Payment,Mortgage,,-2450.00
+2025-01-08,Chase Checking,Comcast Internet,Utilities,,-89.99
+2025-01-10,Chase Checking,Target,Shopping,,-67.42
+2025-01-12,Chase Checking,Chipotle Mexican Grill,Restaurants,,-14.25
+2025-01-14,Chase Checking,Amazon Prime,Subscriptions,,-14.99
+2025-01-15,Chase Checking,Company Payroll,Income,,5200.00
+2025-01-15,Chase Checking,State Farm Insurance,Insurance,,-185.00
+2025-01-16,Chase Checking,Trader Joe's,Groceries,,-98.72
+2025-01-18,Chase Checking,Uber Ride,Transportation,,-22.45
+2025-01-20,Chase Checking,Sushi Palace,Restaurants,,-45.80
+2025-01-22,Chase Checking,PG&E Electric,Utilities,,-134.56
+2025-01-25,Chase Checking,Costco Wholesale,Groceries,,-215.30
+2025-01-28,Chase Checking,Kaiser Pharmacy,Healthcare,,-35.00
+2025-01-30,Chase Checking,Planet Fitness,Gym,,-24.99
+2025-02-01,Chase Checking,Company Payroll,Income,,5200.00
+2025-02-03,Chase Checking,Safeway,Groceries,,-87.65
+2025-02-05,Chase Checking,Mortgage Payment,Mortgage,,-2450.00
+2025-02-06,Chase Checking,T-Mobile,Mobile Phone,,-75.00
+2025-02-08,Chase Checking,Home Depot,Home Improvement,,-234.56
+2025-02-10,Chase Checking,Olive Garden,Restaurants,,-62.30
+2025-02-12,Chase Checking,Spotify Premium,Subscriptions,,-10.99
+2025-02-14,Chase Checking,Flowers - Valentine,Gifts & Donations,,-55.00
+2025-02-15,Chase Checking,Company Payroll,Income,,5200.00
+2025-02-16,Chase Checking,Shell Gas Station,Gas & Fuel,,-52.80
+2025-02-18,Chase Checking,Nordstrom,Clothing,,-189.99
+2025-02-20,Chase Checking,Whole Foods Market,Groceries,,-156.23
+2025-02-22,Chase Checking,AMC Movies,Entertainment,,-32.00
+2025-02-25,Chase Checking,Property Tax Q1,Taxes,,-3200.00
+2025-02-28,Chase Checking,Veterinarian Visit,Pets,,-145.00
+2025-03-01,Chase Checking,Company Payroll,Income,,5200.00
+2025-03-02,Chase Checking,Daycare Monthly,Childcare,,-1800.00
+2025-03-05,Chase Checking,Mortgage Payment,Mortgage,,-2450.00
+2025-03-06,Chase Checking,Comcast Internet,Utilities,,-89.99
+2025-03-08,Chase Checking,Trader Joe's,Groceries,,-112.45
+2025-03-10,Chase Checking,Auto Repair Shop,Service & Parts,,-425.00
+2025-03-12,Chase Checking,Starbucks,Coffee Shops,,-6.75
+2025-03-14,Chase Checking,Thai Kitchen,Restaurants,,-38.50
+2025-03-15,Chase Checking,Company Payroll,Income,,5200.00
+2025-03-16,Chase Checking,Southwest Airlines,Travel,,-345.00
+2025-03-18,Chase Checking,Hilton Hotel,Hotel,,-289.00
+2025-03-20,Chase Checking,REI Outdoor,Shopping,,-156.78
+2025-03-22,Chase Checking,Safeway,Groceries,,-94.30
+2025-03-25,Chase Checking,Kids Soccer League,Kids,,-150.00
+2025-03-28,Chase Checking,Dentist Checkup,Dentist,,-200.00
+2025-03-30,Chase Checking,Planet Fitness,Gym,,-24.99
+2025-04-01,Chase Checking,Company Payroll,Income,,5200.00
+2025-04-02,Chase Checking,Mortgage Payment,Mortgage,,-2450.00
+2025-04-05,Chase Checking,State Farm Insurance,Insurance,,-185.00
+2025-04-07,Chase Checking,Costco Gas,Gas & Fuel,,-55.40
+2025-04-08,Chase Checking,Whole Foods Market,Groceries,,-178.90
+2025-04-10,Chase Checking,Uber Eats,Restaurants,,-28.95
+2025-04-12,Chase Checking,Netflix Subscription,Subscriptions,,-15.99
+2025-04-14,Chase Checking,PG&E Electric,Utilities,,-112.34
+2025-04-15,Chase Checking,Company Payroll,Income,,5200.00
+2025-04-15,Chase Checking,Tax Preparation,Business Services,,-250.00
+2025-04-18,Chase Checking,Macy's Clothing,Clothing,,-245.00
+2025-04-20,Chase Checking,Pet Food Store,Pet Food & Supplies,,-67.89
+2025-04-22,Chase Checking,Lyft Ride,Ride Share,,-18.50
+2025-04-25,Chase Checking,Eye Exam,Eyecare,,-125.00
+2025-04-28,Chase Checking,Daycare Monthly,Childcare,,-1800.00
+2025-04-30,Chase Checking,Bonus Payment,Income,,2500.00
+2025-05-01,Chase Checking,Company Payroll,Income,,5200.00
+2025-05-03,Chase Checking,Mortgage Payment,Mortgage,,-2450.00
+2025-05-05,Chase Checking,Property Tax Q2,Taxes,,-3200.00
+2025-05-06,Chase Checking,T-Mobile,Mobile Phone,,-75.00
+2025-05-08,Chase Checking,Trader Joe's,Groceries,,-105.60
+2025-05-10,Chase Checking,Sushi House,Restaurants,,-52.40
+2025-05-12,Chase Checking,Spotify Premium,Subscriptions,,-10.99
+2025-05-14,Chase Checking,Home Depot Paint,Home Improvement,,-189.45
+2025-05-15,Chase Checking,Company Payroll,Income,,5200.00
+2025-05-18,Chase Checking,United Airlines,Travel,,-520.00
+2025-05-20,Chase Checking,Marriott Resort,Hotel,,-450.00
+2025-05-22,Chase Checking,Whole Foods Market,Groceries,,-134.75
+2025-05-25,Chase Checking,Kids Summer Camp,Kids,,-800.00
+2025-05-28,Chase Checking,Hair Salon,Hair,,-65.00
+2025-05-30,Chase Checking,Daycare Monthly,Childcare,,-1800.00
+2025-06-01,Chase Checking,Company Payroll,Income,,5200.00
+2025-06-03,Chase Checking,Mortgage Payment,Mortgage,,-2450.00
+2025-06-05,Chase Checking,Comcast Internet,Utilities,,-89.99
+2025-06-07,Chase Checking,Costco Wholesale,Groceries,,-267.80
+2025-06-09,Chase Checking,Cheesecake Factory,Restaurants,,-78.50
+2025-06-10,Chase Checking,Car Payment,Auto Payment,,-385.00
+2025-06-12,Chase Checking,Shell Gas Station,Gas & Fuel,,-61.20
+2025-06-14,Chase Checking,Amazon Shopping,Shopping,,-134.56
+2025-06-15,Chase Checking,Company Payroll,Income,,5200.00
+2025-06-16,Chase Checking,State Farm Insurance,Insurance,,-185.00
+2025-06-18,Chase Checking,Nike Outlet,Clothing,,-145.00
+2025-06-20,Chase Checking,Dog Grooming,Pets,,-85.00
+2025-06-22,Chase Checking,PG&E Electric,Utilities,,-156.78
+2025-06-25,Chase Checking,Kids Swimming Lessons,Kids,,-200.00
+2025-06-28,Chase Checking,Daycare Monthly,Childcare,,-1800.00
+2025-06-30,Chase Checking,Planet Fitness,Gym,,-24.99
