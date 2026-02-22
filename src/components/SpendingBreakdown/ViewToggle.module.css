@@ -1,0 +1,29 @@
+.toggle {
+  display: inline-flex;
+  background: var(--bg-tertiary);
+  border-radius: 20px;
+  padding: 3px;
+  gap: 2px;
+}
+
+.option {
+  padding: 6px 18px;
+  border-radius: 18px;
+  border: none;
+  background: transparent;
+  color: var(--text-tertiary);
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.option:hover {
+  color: var(--text-secondary);
+}
+
+.active {
+  background: var(--bg-secondary);
+  color: var(--text-primary);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+}

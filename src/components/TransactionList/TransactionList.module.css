@@ -1,0 +1,81 @@
+.container {
+  padding: 0.5rem 0 0.5rem 52px;
+  animation: slideDown 0.25s ease;
+}
+
+.list {
+  background: var(--bg-tertiary);
+  border-radius: 10px;
+  padding: 0.5rem;
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.list::-webkit-scrollbar {
+  width: 4px;
+}
+
+.list::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 2px;
+}
+
+.row {
+  display: grid;
+  grid-template-columns: 90px 1fr auto auto;
+  gap: 12px;
+  align-items: center;
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-size: 0.8rem;
+  transition: background 0.15s;
+}
+
+.row:hover {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.date {
+  color: var(--text-tertiary);
+  font-variant-numeric: tabular-nums;
+}
+
+.description {
+  color: var(--text-secondary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.account {
+  color: var(--text-tertiary);
+  font-size: 0.75rem;
+  white-space: nowrap;
+}
+
+.amount {
+  color: var(--text-primary);
+  font-weight: 500;
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+.more {
+  text-align: center;
+  color: var(--text-tertiary);
+  font-size: 0.8rem;
+  padding: 8px;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    max-height: 0;
+    transform: translateY(-8px);
+  }
+  to {
+    opacity: 1;
+    max-height: 300px;
+    transform: translateY(0);
+  }
+}

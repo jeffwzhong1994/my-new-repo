@@ -1,0 +1,131 @@
+Date,Account,Description,Category,Tags,Amount
+2025-01-02,Chase Checking,Wire Transfer Out,Transfers,,-45000
+2025-01-15,Chase Checking,Wire Transfer Out,Transfers,,-35000
+2025-02-10,Chase Checking,Venmo Transfer,Transfers,,-28000
+2025-03-05,Chase Checking,Zelle Payment,Transfers,,-30000
+2025-04-20,Chase Checking,Wire Transfer Out,Transfers,,-40000
+2025-05-12,Chase Checking,Bank Transfer,Transfers,,-38000
+2025-06-08,Chase Checking,Wire Transfer,Transfers,,-38944
+2025-01-05,Chase Credit,Visa Payment,Credit Card Payments,,-12000
+2025-02-05,Chase Credit,Amex Payment,Credit Card Payments,,-11000
+2025-03-05,Chase Credit,Visa Payment,Credit Card Payments,,-12500
+2025-04-05,Chase Credit,Amex Payment,Credit Card Payments,,-11231
+2025-05-05,Chase Credit,Visa Payment,Credit Card Payments,,-13000
+2025-06-05,Chase Credit,Amex Payment,Credit Card Payments,,-12000
+2025-01-10,Brokerage,Stock Purchase AAPL,Securities Trades,,-8500
+2025-02-14,Brokerage,Stock Purchase MSFT,Securities Trades,,-9000
+2025-03-20,Brokerage,Stock Purchase GOOGL,Securities Trades,,-12000
+2025-04-15,Brokerage,ETF Purchase VOO,Securities Trades,,-11551
+2025-05-22,Brokerage,Stock Purchase NVDA,Securities Trades,,-12000
+2025-01-08,Chase Credit,Nobu Restaurant,Restaurants,,-450
+2025-01-15,Chase Credit,Sushi Yasuda,Restaurants,,-380
+2025-01-22,Chase Credit,Peter Luger,Restaurants,,-520
+2025-02-03,Chase Credit,Le Bernardin,Restaurants,,-680
+2025-02-14,Chase Credit,Eleven Madison Park,Restaurants,,-890
+2025-02-28,Chase Credit,Masa NYC,Restaurants,,-1200
+2025-03-10,Chase Credit,Daniel Restaurant,Restaurants,,-550
+2025-03-25,Chase Credit,The Modern,Restaurants,,-420
+2025-04-05,Chase Credit,Gramercy Tavern,Restaurants,,-380
+2025-04-18,Chase Credit,Atera,Restaurants,,-750
+2025-04-29,Chase Credit,Momofuku Ko,Restaurants,,-480
+2025-05-08,Chase Credit,Jean-Georges,Restaurants,,-620
+2025-05-20,Chase Credit,Per Se,Restaurants,,-1150
+2025-05-31,Chase Credit,Blue Hill,Restaurants,,-430
+2025-06-05,Chase Credit,Atomix,Restaurants,,-780
+2025-06-15,Chase Credit,Crown Shy,Restaurants,,-350
+2025-06-25,Chase Credit,Various restaurants,Restaurants,,-42463
+2025-01-01,Chase Checking,Monthly Mortgage,Mortgages,,-4030
+2025-02-01,Chase Checking,Monthly Mortgage,Mortgages,,-4030
+2025-03-01,Chase Checking,Monthly Mortgage,Mortgages,,-4030
+2025-04-01,Chase Checking,Monthly Mortgage,Mortgages,,-4030
+2025-05-01,Chase Checking,Monthly Mortgage,Mortgages,,-4030
+2025-06-01,Chase Checking,Monthly Mortgage,Mortgages,,-4031
+2025-01-20,Chase Credit,Delta Flight to Tokyo,Travel,,-3200
+2025-02-15,Chase Credit,United Flight LAX,Travel,,-850
+2025-03-08,Chase Credit,Park Hyatt Tokyo,Travel,,-4500
+2025-04-22,Chase Credit,Emirates Biz Class,Travel,,-6200
+2025-05-10,Chase Credit,Marriott Maldives,Travel,,-5628
+2025-06-18,Chase Credit,ANA Flight SFO-NRT,Travel,,-2000
+2025-01-12,Chase Credit,Nordstrom,Clothing/Shoes,,-1800
+2025-02-08,Chase Credit,Gucci Store,Clothing/Shoes,,-3200
+2025-03-15,Chase Credit,Saks Fifth Avenue,Clothing/Shoes,,-2500
+2025-04-10,Chase Credit,Nike Store,Clothing/Shoes,,-450
+2025-05-05,Chase Credit,Zara,Clothing/Shoes,,-380
+2025-06-20,Chase Credit,Bloomingdales,Clothing/Shoes,,-12201
+2025-01-15,Chase Checking,Federal Tax Payment,Taxes,,-4500
+2025-04-15,Chase Checking,Tax Payment Q1,Taxes,,-8576
+2025-01-01,Chase Checking,Monthly Rent Office,Rent,,-1384
+2025-02-01,Chase Checking,Monthly Rent Office,Rent,,-1384
+2025-03-01,Chase Checking,Monthly Rent Office,Rent,,-1384
+2025-04-01,Chase Checking,Monthly Rent Office,Rent,,-1384
+2025-05-01,Chase Checking,Monthly Rent Office,Rent,,-1386
+2025-06-01,Chase Checking,Monthly Rent Office,Rent,,-1384
+2025-01-10,Chase Credit,Adobe Creative Cloud,Online Services,,-600
+2025-02-10,Chase Credit,AWS Services,Online Services,,-850
+2025-03-10,Chase Credit,Google Workspace,Online Services,,-400
+2025-04-10,Chase Credit,Notion Team,Online Services,,-250
+2025-05-10,Chase Credit,Figma Pro,Online Services,,-450
+2025-06-10,Chase Credit,Various SaaS,Online Services,,-2653
+2025-01-18,Chase Credit,Broadway Show,Entertainment,,-680
+2025-02-22,Chase Credit,MSG Knicks Game,Entertainment,,-450
+2025-03-30,Chase Credit,Comedy Club,Entertainment,,-250
+2025-04-25,Chase Credit,Spotify + Netflix,Entertainment,,-35
+2025-05-15,Chase Credit,Concert Tickets,Entertainment,,-1200
+2025-06-10,Chase Credit,Various entertainment,Entertainment,,-1467
+2025-01-05,Chase Credit,Misc Purchase,Other Expenses,,-500
+2025-02-12,Chase Credit,Misc Services,Other Expenses,,-800
+2025-03-18,Chase Credit,Misc Purchase,Other Expenses,,-700
+2025-04-08,Chase Credit,Misc Services,Other Expenses,,-600
+2025-05-22,Chase Credit,Misc Purchase,Other Expenses,,-504
+2025-06-15,Chase Credit,Misc Services,Other Expenses,,-900
+2025-01-07,Chase Credit,Whole Foods,Groceries,,-580
+2025-02-07,Chase Credit,Trader Joes,Groceries,,-520
+2025-03-07,Chase Credit,Whole Foods,Groceries,,-610
+2025-04-07,Chase Credit,Costco,Groceries,,-490
+2025-05-07,Chase Credit,Whole Foods,Groceries,,-580
+2025-06-07,Chase Credit,Trader Joes,Groceries,,-687
+2025-01-15,Chase Checking,State Farm,Insurance,,-518
+2025-02-15,Chase Checking,State Farm,Insurance,,-518
+2025-03-15,Chase Checking,State Farm,Insurance,,-518
+2025-04-15,Chase Checking,State Farm,Insurance,,-518
+2025-05-15,Chase Checking,State Farm,Insurance,,-521
+2025-06-15,Chase Checking,State Farm,Insurance,,-518
+2025-01-20,Chase Credit,Target,General Merchandise,,-450
+2025-02-20,Chase Credit,Costco,General Merchandise,,-520
+2025-03-20,Chase Credit,Walmart,General Merchandise,,-380
+2025-04-20,Chase Credit,Amazon,General Merchandise,,-600
+2025-05-20,Chase Credit,Target,General Merchandise,,-477
+2025-06-20,Chase Credit,Costco,General Merchandise,,-600
+2025-01-25,Chase Credit,Kiehl's,Personal Care,,-280
+2025-02-25,Chase Credit,Hair Salon,Personal Care,,-350
+2025-03-25,Chase Credit,Spa Day,Personal Care,,-500
+2025-04-25,Chase Credit,Dermatologist,Personal Care,,-400
+2025-05-25,Chase Credit,Kiehl's,Personal Care,,-714
+2025-06-25,Chase Credit,Hair Salon,Personal Care,,-500
+2025-01-12,Chase Credit,Vet Visit,Pets/Pet Care,,-350
+2025-02-18,Chase Credit,Pet Food,Pets/Pet Care,,-180
+2025-03-22,Chase Credit,Dog Grooming,Pets/Pet Care,,-120
+2025-04-15,Chase Credit,Vet Checkup,Pets/Pet Care,,-400
+2025-05-20,Chase Credit,Pet Supplies,Pets/Pet Care,,-280
+2025-06-10,Chase Credit,Vet Emergency,Pets/Pet Care,,-640
+2025-01-08,Chase Credit,Apple Store,Electronics,,-1200
+2025-04-12,Chase Credit,Best Buy,Electronics,,-506
+2025-01-10,Chase Checking,ConEd Electric,Utilities,,-280
+2025-02-10,Chase Checking,ConEd Electric,Utilities,,-310
+2025-03-10,Chase Checking,ConEd Electric,Utilities,,-250
+2025-04-10,Chase Checking,ConEd Electric,Utilities,,-240
+2025-05-10,Chase Checking,ConEd Electric,Utilities,,-260
+2025-06-10,Chase Checking,ConEd Electric,Utilities,,-237
+2025-01-15,Chase Checking,Company Payroll,Income,,12000
+2025-01-31,Chase Checking,Company Payroll,Income,,12000
+2025-02-15,Chase Checking,Company Payroll,Income,,12000
+2025-02-28,Chase Checking,Company Payroll,Income,,12000
+2025-03-15,Chase Checking,Company Payroll,Income,,12000
+2025-03-31,Chase Checking,Company Payroll,Income,,12000
+2025-04-15,Chase Checking,Company Payroll,Income,,12000
+2025-04-30,Chase Checking,Company Payroll,Income,,12000
+2025-05-15,Chase Checking,Company Payroll,Income,,12000
+2025-05-31,Chase Checking,Company Payroll,Income,,12000
+2025-06-15,Chase Checking,Company Payroll,Income,,12000
+2025-06-30,Chase Checking,Company Payroll,Income,,12000
+2025-03-15,Chase Checking,Annual Bonus,Income,,50000

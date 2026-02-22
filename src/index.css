@@ -1,0 +1,106 @@
+/* ============================================
+   Personal Finance Dashboard - Global Styles
+   Dark theme inspired by Copilot finance app
+   ============================================ */
+
+:root {
+  /* Background layers */
+  --bg-primary: #070e1b;
+  --bg-secondary: #0d1829;
+  --bg-tertiary: #142236;
+
+  /* Text hierarchy */
+  --text-primary: #f0f4f8;
+  --text-secondary: #8899aa;
+  --text-tertiary: #4a5b6d;
+
+  /* Accent colors */
+  --accent: #5b8af5;
+  --income-color: #22c55e;
+  --expense-color: #ef4444;
+  --danger: #ef4444;
+
+  /* Borders */
+  --border-color: #1e3048;
+
+  /* Typography */
+  font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', 'Roboto',
+    'Helvetica Neue', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  color: var(--text-primary);
+  background-color: var(--bg-primary);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  color-scheme: dark;
+}
+
+/* Reset */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  min-height: 100vh;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+}
+
+#root {
+  min-height: 100vh;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-tertiary);
+}
+
+/* Selection */
+::selection {
+  background: rgba(91, 138, 245, 0.3);
+  color: var(--text-primary);
+}
+
+/* Recharts overrides for dark theme */
+.recharts-legend-item-text {
+  color: var(--text-secondary) !important;
+}
+
+.recharts-default-legend {
+  padding-top: 10px !important;
+}
